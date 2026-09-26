@@ -7,4 +7,3 @@ dependencies:
   - numpy
   - pandas
   - pytest
-prefix: C:\Users\mashe\miniconda3\envs\ducknet
