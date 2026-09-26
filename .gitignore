@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environments
+.venv/
+env/
+
+# Datasets
+data/
+*.csv
+
+# Checkpoints
+*.npy
+*.npz
+
+# C build files
+build/
+*.o
+*.obj
+*.exe
+*.dll
+
+# Vim
+*.swp
+*.swo
+*~
+
